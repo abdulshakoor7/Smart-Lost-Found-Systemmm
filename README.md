@@ -70,22 +70,7 @@ The system utilizes a Decoupled 3-Tier Architecture:
 🧑‍💻 Development Team
 
   - Abdul Shakoor (@abdulshakoor7) - Full Stack Developer & DevOps
-  - Muhammad Shoaib (@muhammadshoaib) - AI & Database Engineer
   - Supervised by: Dr. Safi Ullah
 
-🛑 Important Reminder for You:
 
-1.  Filename Check: Inside your screenshots/ folder, make sure you rename your
-    images to:
-      - login.png
-      - home.png
-      - report.png
-      - match.png
-      - chat.png
-      - admin.png (If you use .jpg or capital letters like .PNG, you must change
-        the code above to match exactly!)
-2.  Commit: After pasting the text, scroll to the bottom of the page and click
-    "Commit changes".
-
-Abdul, once you do this, your GitHub will look amazing. You can send this link
 to your interviewer right now! 🎓🚀🏆
