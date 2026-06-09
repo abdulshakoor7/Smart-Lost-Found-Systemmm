@@ -16,19 +16,27 @@ a Weighted Heuristic Matching Engine to connect finders with owners in
 real-time.
 
 📸 Screenshots
+## 📸 Screenshots
 
-Note: These images are stored in the /screenshots folder. Ensure your filenames
-match exactly!
+<p align="center">
+  <img src="screenshots/Wellcome.png" width="200" title="Wellcome Screen">
+    <img src="screenshots/register.png" width="200" title="Register Screen">
+   <img src="screenshots/login.png" width="200" title="Login Screen">
+  <img src="screenshots/home.png" width="200" title="Home Dashboard">
+  <img src="screenshots/report_found.png" width="200" title="Found Report">
+    <img src="screenshots/report_lost.png" width="200" title="Report_lostScreen">
+</p>
 
-| 📱 Welcome                             | 🏠 Smart Home Feed                            | 🔍 AI Reporting Logic                           |
-| :-------------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
-| <img src="screenshots/Wellcome.png" width="220"> | <img src="screenshots/home.png" width="220"> | <img src="screenshots/report.png" width="220"> |
-| **Secure JWT Login**                          | **Responsive Grid View**                     | **TensorFlow Tagging**                         |
+<p align="center">
+  <img src="screenshots/notification.png" width="200" title="Match Notification">
+  <img src="screenshots/profile.png" width="200" title="My ProfileScreen">
+    <img src="screenshots/setting.png" width="200" title="setting Screen">
+  <img src="screenshots/activity.png" width="200" title="My Activity Screen">
+  
+</p>
 
-| 🔔 Match Alerts                                | 💬 Private Chat                               | ⚙️ Admin Console                              |
-| :-------------------------------------------: | :------------------------------------------: | :-------------------------------------------: |
-| <img src="snotification.png" width="220"> | <img src="screenshots/chat.png" width="220"> | <img src="screenshots/admin.png" width="400"> |
-| **Push Notifications**                        | **Identity Masking**                         | **Verification Panel**                        |
+
+
 
 🛠 Technical Architecture
 
