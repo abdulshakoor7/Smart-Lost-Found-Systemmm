@@ -20,7 +20,7 @@ real-time.
 ### 1️⃣ Onboarding & Security
 | Onboarding UI | User Registration | Secure Authentication |
 | :---: | :---: | :---: |
-| <img src="screenshots/welcome.png" width="220"> | <img src="screenshots/register.png" width="220"> | <img src="screenshots/login.png" width="220"> |
+| <img src="screenshots/Wellcome.png" width="220"> | <img src="screenshots/register.png" width="220"> | <img src="screenshots/login.png" width="220"> |
 | **Welcome Screen** | **Student Enrollment** | **JWT-Based Login** |
 
 ### 2️⃣ Core Features & AI Reporting
@@ -32,7 +32,7 @@ real-time.
 ### 3️⃣ Interaction & System Management
 | AI Match Alerts | User Account | Privacy Settings | My Activity |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/notifications.png" width="180"> | <img src="screenshots/profile.png" width="180"> | <img src="screenshots/settings.png" width="180"> | <img src="screenshots/activity.png" width="180"> |
+| <img src="screenshots/notification.png" width="180"> | <img src="screenshots/profile.png" width="180"> | <img src="screenshots/setting.png" width="180"> | <img src="screenshots/activity.png" width="180"> |
 | **Smart Notifications** | **User Profile** | **Preference Control** | **Transaction History** |
 
 
