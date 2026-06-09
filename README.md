@@ -15,26 +15,25 @@ system introduces Artificial Intelligence to automatically categorize items and
 a Weighted Heuristic Matching Engine to connect finders with owners in
 real-time.
 
-📸 Screenshots
-## 📸 Screenshots
+## 📸 Application Interface
 
-<p align="center">
-  <img src="screenshots/Wellcome.png" width="200" title="Wellcome Screen">
-    <img src="screenshots/register.png" width="200" title="Register Screen">
-   <img src="screenshots/login.png" width="200" title="Login Screen">
-  <img src="screenshots/home.png" width="200" title="Home Dashboard">
-  <img src="screenshots/report_found.png" width="200" title="Found Report">
-    <img src="screenshots/report_lost.png" width="200" title="Report_lostScreen">
-</p>
+### 1️⃣ Onboarding & Security
+| Onboarding UI | User Registration | Secure Authentication |
+| :---: | :---: | :---: |
+| <img src="screenshots/welcome.png" width="220"> | <img src="screenshots/register.png" width="220"> | <img src="screenshots/login.png" width="220"> |
+| **Welcome Screen** | **Student Enrollment** | **JWT-Based Login** |
 
-<p align="center">
-  <img src="screenshots/notification.png" width="200" title="Match Notification">
-  <img src="screenshots/profile.png" width="200" title="My ProfileScreen">
-    <img src="screenshots/setting.png" width="200" title="setting Screen">
-  <img src="screenshots/activity.png" width="200" title="My Activity Screen">
-  
-</p>
+### 2️⃣ Core Features & AI Reporting
+| Dynamic Dashboard | Found Item Ingest | Lost Item Submission |
+| :---: | :---: | :---: |
+| <img src="screenshots/home.png" width="220"> | <img src="screenshots/report_found.png" width="220"> | <img src="screenshots/report_lost.png" width="220"> |
+| **Real-time Feed** | **Found Report (AI)** | **Lost Report (AI)** |
 
+### 3️⃣ Interaction & System Management
+| AI Match Alerts | User Account | Privacy Settings | My Activity |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/notifications.png" width="180"> | <img src="screenshots/profile.png" width="180"> | <img src="screenshots/settings.png" width="180"> | <img src="screenshots/activity.png" width="180"> |
+| **Smart Notifications** | **User Profile** | **Preference Control** | **Transaction History** |
 
 
 
